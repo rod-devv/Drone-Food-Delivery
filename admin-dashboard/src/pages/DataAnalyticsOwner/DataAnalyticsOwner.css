@@ -1,0 +1,33 @@
+/* Dashboard styling */
+.chart-container {
+  width: 100%;
+  height: 100%;
+  min-height: 300px;
+}
+
+/* Statistics cards */
+.stat-card {
+  transition: all 0.3s ease;
+}
+
+.stat-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Chart tooltips */
+.recharts-tooltip-wrapper {
+  z-index: 1000;
+}
+
+/* Custom styling for pie charts */
+.custom-pie .recharts-pie-label-text {
+  font-weight: bold;
+}
+
+/* Ensure charts remain responsive */
+@media (max-width: 768px) {
+  .chart-container {
+    height: 250px;
+  }
+}
