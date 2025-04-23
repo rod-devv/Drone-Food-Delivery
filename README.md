@@ -11,7 +11,7 @@
 
 https://drone-food-client.fly.dev/
 
-<img src="https://github.com/user-attachments/assets/4c8335bc-f169-4b92-b52c-f278d3a3b6b5" alt="img_1" width="700"/>
+![h](https://github.com/user-attachments/assets/cad08fa6-4023-439c-a602-986e339311ad)
 
 
 ***  
@@ -31,7 +31,8 @@ The App consists of 3 main components:
 2. Backend
 3. Frontend - Dashboard for admins/restaurant owners
 
-![simplified_overview_app](https://github.com/user-attachments/assets/d8a3b81d-cc02-4ecc-94c6-2ce2821a8a67)
+
+![overall](https://github.com/user-attachments/assets/dacbfef7-4226-45fc-822a-1360c95a8bca)
 
 
 
@@ -80,7 +81,7 @@ The application is designed with a modern, decoupled architecture where the fron
 # Each component in detail:
 ## Frontend - Client 
 
-![client_diagram](https://github.com/user-attachments/assets/0f41e54f-14a8-4751-a939-baf2d97a77d1)
+![clint](https://github.com/user-attachments/assets/2536793a-7cf2-41ed-9976-2e22abdffecf)
 
 
 ### User Journey Flow
@@ -150,7 +151,8 @@ The application is designed with a modern, decoupled architecture where the fron
 
 ## Backend
 
-![BACKEND_DIAGRAM](https://github.com/user-attachments/assets/97f8b04c-a6c1-4080-a174-d85ee0088ac2)
+![bck](https://github.com/user-attachments/assets/6b40e01e-4f84-4216-98dc-0fe1a64a5ebe)
+
 
 ## Key Components and Functionality
 
@@ -263,7 +265,8 @@ The backend system uses a MongoDB database with Mongoose ODM, Express.js for the
 
 ## Frontend - Dashboard Admins/Owners
 
-![DASHBOARD_DIAGRAM](https://github.com/user-attachments/assets/8c1a31a2-8caf-4ec6-8496-7d50a0028c0a)
+![admin](https://github.com/user-attachments/assets/6945bc77-4491-4c2b-9338-738def327c85)
+
 
 
 ## Key Components and Functionality
@@ -369,45 +372,40 @@ The admin dashboard serves as a comprehensive management system for the Drone de
 ## 1 Client
 
 ### 1. home page
-![0](https://github.com/user-attachments/assets/5ed318d7-64d3-425b-9e27-c64e9bb6ddf5)
+
+![Screenshot 2025-04-22 084319](https://github.com/user-attachments/assets/38fb7317-97e6-4810-8630-7c861c4b8317)
 
 ### 2. loggin
-![3](https://github.com/user-attachments/assets/26e34f11-2a06-4450-9fab-d113a3a924e9)
+![Screenshot 2025-04-23 100708](https://github.com/user-attachments/assets/a748d1c0-ade9-4b38-ba98-2ee2fe53d6d5)
 
 ### 3. city selection
-![2](https://github.com/user-attachments/assets/0558a2a2-a8ae-44bc-a08a-dc7e4602aa7b)
+![Screenshot 2025-04-23 095313](https://github.com/user-attachments/assets/debc3537-8ce6-4c59-8670-c546c2fa1979)
 
 ### 4. user selects a restaurant and delivery location using map of that city (mapbox)
-![4](https://github.com/user-attachments/assets/e90a21e7-6cfd-4233-ad76-2479e3333cfc)
--
-![5](https://github.com/user-attachments/assets/279060da-cb15-4e7d-86a3-d8de45540791)
+![Screenshot 2025-04-23 095438](https://github.com/user-attachments/assets/9b5221a8-ee82-4193-92c9-b5268175eeea)
 
 ### 5. items selection
-![Screenshot 2025-04-22 091103](https://github.com/user-attachments/assets/dce78fbe-3042-48e3-9b45-0aa62de60f2f)
+![Screenshot 2025-04-23 095903](https://github.com/user-attachments/assets/2a674011-4eb0-4d6a-9c15-3d24678a87d2)
 -
-![Screenshot 2025-04-22 091444](https://github.com/user-attachments/assets/947ca6df-4ee7-42a0-9f3b-315e764b326a)
--
-![Screenshot 2025-04-22 091502](https://github.com/user-attachments/assets/f21f09a5-bae7-48e4-b940-1ba91a947fae)
-
+![Screenshot 2025-04-23 095920](https://github.com/user-attachments/assets/12e5c1e8-3d8f-47cf-b882-34a21ce1dd3c)
+- 
 selected items can be seen in "Your order" box
-![Screenshot 2025-04-22 091535](https://github.com/user-attachments/assets/d244a547-47df-4642-ba78-f218c135f48a)
-
+![Screenshot 2025-04-23 100004](https://github.com/user-attachments/assets/47f58e6d-723d-48e6-8623-7c7eac8da849)
 
 ### 6. user preceed to cart
-![Screenshot 2025-04-22 091859](https://github.com/user-attachments/assets/042e32d3-dc12-422e-8bf2-58d80e9f33e1)
-
+![Screenshot 2025-04-23 100011](https://github.com/user-attachments/assets/01a372ea-c50f-4555-ad19-b84aa11315c0)
 
 ### 7. order completion - user information, delivery information, option to change location using map.
-![Screenshot 2025-04-22 092524](https://github.com/user-attachments/assets/45839d76-e594-407e-a044-5542989abfc6)
+![Screenshot 2025-04-23 100053](https://github.com/user-attachments/assets/5a3f09bc-36e6-484e-b3ca-91671b5b37cc)
 
 ### 8. order summary
-![Screenshot 2025-04-22 092607](https://github.com/user-attachments/assets/889fb8eb-f11b-428f-aea6-1567cbf89dfd)
+![Screenshot 2025-04-23 100111](https://github.com/user-attachments/assets/383241cc-e40b-4283-b379-6422aa24342a)
 
 ### 9. stripe payment
-![Screenshot 2025-04-22 092635](https://github.com/user-attachments/assets/4532fd5a-fc93-44a2-a720-0c3c83c9cef1)
+![Screenshot 2025-04-23 100148](https://github.com/user-attachments/assets/4b8af0b3-d6d0-43f6-b0d4-2ec7d46b9b87)
 
 ### 10. confirmation
-![Screenshot 2025-04-22 092659](https://github.com/user-attachments/assets/16400321-ec13-4940-a2dd-5d7244830946)
+![Screenshot 2025-04-23 100212](https://github.com/user-attachments/assets/463cace0-ab14-48b3-ad00-ae3761bc9594)
 
 
 
@@ -418,41 +416,47 @@ selected items can be seen in "Your order" box
 
 ## + Dashboard admin/owner
 ### 1.loggin (as admin or restaurant owner, both have their own dashboard)
-![login](https://github.com/user-attachments/assets/69935b17-45d6-486a-ba88-cf3f45cf2aaa)
+![Screenshot 2025-04-19 183704](https://github.com/user-attachments/assets/ea11111a-0485-4279-b9fa-67c5497167f3)
 
 
 ### 2.home page
-![dash](https://github.com/user-attachments/assets/10000986-26f6-44db-b07a-9f71839af6fb)
+
+![Screenshot 2025-04-19 171008](https://github.com/user-attachments/assets/4e7f6269-bdbf-4398-9432-c31130d38cf6)
+
 
 ### 3. Delivery - management - map, city selection, current/past deliveries, restaurant selection. real time deliveries shown on map and their details
-![delivery-map](https://github.com/user-attachments/assets/a2fea66d-5722-4550-bd42-bd314ac551ef)
+![Screenshot 2025-04-19 172354](https://github.com/user-attachments/assets/00a2386e-7a05-4458-b7d4-cbbdc8707305)
 -
-![map-details](https://github.com/user-attachments/assets/ae5c2594-b7fd-41bb-adaf-b3395f77aff1)
+![Screenshot 2025-04-19 172417](https://github.com/user-attachments/assets/bb406cd9-0266-4d43-a281-3c51db41231b)
+
 
 ### 3.1. Restaurant Management (admin) - restaurant management, search filter, delete. 
-![rest-mng](https://github.com/user-attachments/assets/a2bd5c0c-e6eb-47e2-90b0-dd7b2afd90a4)
+![Screenshot 2025-04-19 172431](https://github.com/user-attachments/assets/21a1aab8-9480-4caf-96f5-c4c80347f183)
+
 
 ### 3.2. Restaurant Management (restaurant owner) - restaurant selection, update information, delete items. 
-![Screenshot 2025-04-20 093119](https://github.com/user-attachments/assets/2f001a27-4082-4dcd-819e-f92eba019850)
-
+![Screenshot 2025-04-19 175548](https://github.com/user-attachments/assets/5f2c3c56-38fa-455b-a145-806e07a8cb1f)
 
 
 ### 4.1 Add restaurant (admin)
-![add-rest](https://github.com/user-attachments/assets/7f247fe4-492e-4f2c-b1f2-fbda6aee546f)
+![Screenshot 2025-04-19 172452](https://github.com/user-attachments/assets/185ba178-94f8-402d-b2fc-5f6f8e1f38dd)
 -
-![add-rest2](https://github.com/user-attachments/assets/31868cca-b766-4aed-9691-1bb7b420e2b6)
+![Screenshot 2025-04-19 172501](https://github.com/user-attachments/assets/4fb089b3-ed82-4840-ade1-f41d97472fed)
+
 
 ### 4.1 Add food (owner)
-![add-food](https://github.com/user-attachments/assets/ea8883b1-effa-47fe-a0e5-fe611202d7a3)
+![Screenshot 2025-04-20 093129](https://github.com/user-attachments/assets/18db27d4-6825-4d8e-b3cd-1e802c8d852c)
 
 ### 5 User management (admin)
-![user-mng](https://github.com/user-attachments/assets/290a0c0b-724e-4fc6-8b37-919f4fb5ccff)
+![Screenshot 2025-04-20 092544](https://github.com/user-attachments/assets/795a0e6e-afdd-484d-a48c-652d2249153b)
 
 ### 6.1 Data analytics (admin)
-![stats](https://github.com/user-attachments/assets/6d71ae16-4f56-417b-b791-f674792e0527)
+![Screenshot 2025-04-20 092556](https://github.com/user-attachments/assets/ec683fbf-0b1c-4d85-b7c2-e1d9bb57f434)
+
 
 ### 6.2 Data analytics (owner)
-![Screenshot 2025-04-20 093102](https://github.com/user-attachments/assets/c2f0f700-4b5f-4bc2-b8b4-d47065df8618)
+![Screenshot 2025-04-20 093102](https://github.com/user-attachments/assets/ea5a58e2-5732-49e6-b3fb-f5c638bae07b)
+
 
 ### 7 Ai center - currently under development, will be updated soon.
 
